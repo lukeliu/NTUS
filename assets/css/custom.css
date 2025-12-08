@@ -305,9 +305,9 @@ h6,
         height: 55vw;
     }
     #header h1.title {
-        font-size: 12px;
-        margin: 44vw 0 30px 16vw;
-        width: 90%;
+        font-size: 14px;
+        margin: 45vw 0 30px 6vw;
+        width: 100%;
     }
 }
 
