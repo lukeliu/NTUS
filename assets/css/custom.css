@@ -1985,12 +1985,14 @@ section.about {
     left: -45px;
     transition: all .1s ease;
     box-shadow: 0 2px 8px rgb(0 0 0 / 30%);
+    transform-origin: 100% 50%;
 }
 
 .right .smallpic {
     top: 11px;
     left: auto;
     right: -45px;
+    transform-origin: 0 50%;
 }
 
 .h_link:hover .smallpic {
@@ -2463,6 +2465,15 @@ section.about {
     }
 }
 
+@media (max-width: 768px) {
+    .smallpic, .right .smallpic {
+        width: 50px;
+        height: 50px;
+        right: -50px;
+        left: auto;
+    }
+}
+
 @media (max-width: 580px) {
     #history1 .text_box {
         padding: 67px 6vw 50px 6vw;
@@ -2590,12 +2601,6 @@ section.about {
     #history1.history1:before {
         opacity: .15;
         background-size: 140%;
-    }
-    .smallpic, .right .smallpic {
-        width: 50px;
-        height: 50px;
-        right: -50px;
-        left: auto;
     }
 }
 
