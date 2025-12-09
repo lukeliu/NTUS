@@ -829,7 +829,7 @@ section {
     color: #000;
 }
 
-.HRiver .points.p3 span {
+.HRiver .points.p4 span {
     top: -52px;
     left: 13px;
 }
@@ -838,54 +838,44 @@ section {
     left: 21px;
 }
 
-.HRiver .points.p7 span {
-    top: 44px;
-    left: -19px;
-}
-
-.HRiver .points.p8 span {
-    top: 44px;
-    left: -19px;
-}
-
 .HRiver .points.p1 {
     top: 44.3%;
-    left: 18.95%;
+    left: 18.8%;
 }
 
 .HRiver .points.p2 {
-    top: 24%;
-    left: 32.3%;
+    top: 29%;
+    left: 28.7%;
 }
 
 .HRiver .points.p3 {
-    top: 15.5%;
-    left: 44.9%;
+    top: 16.8%;
+    left: 38.6%;
 }
 
 .HRiver .points.p4 {
-    top: 57%;
-    left: 52%;
+    top: 24.5%;
+    left: 48.4%;
 }
 
 .HRiver .points.p5 {
-    top: 38.9%;
-    left: 64.8%;
+    top: 54.7%;
+    left: 57.1%;
 }
 
 .HRiver .points.p6 {
-    top: 18.5%;
-    left: 74.9%;
+    top: 36%;
+    left: 66.1%;
 }
 
 .HRiver .points.p7 {
-    top: 1.4%;
-    left: 87.5%;
+    top: 17.6%;
+    left: 75%;
 }
 
 .HRiver .points.p8 {
-    top: 1.2%;
-    left: 96.9%;
+    top: 4.2%;
+    left: 83.7%;
 }
 
 @media (max-width: 1400px) {
@@ -1489,7 +1479,7 @@ section.about {
 }
 
 #history1 .year.Y1982 {
-    left: 1047px;
+    left: 1062px;
     top: 730px;
 }
 
@@ -1520,7 +1510,7 @@ section.about {
 
 #history1 .year.Y1987 {
     left: 455px;
-    top: 1608px;
+    top: 1571px;
 }
 
 #history1 .year.Y1988 {
@@ -1550,7 +1540,7 @@ section.about {
 
 #history1 .year.Y1993 {
     left: 700px;
-    top: 4558px;
+    top: 4550px;
 }
 
 #history1 .img-fluid {
@@ -1737,7 +1727,7 @@ section.about {
 }
 
 #history1.history1 .h_link[data-index="01"] {
-    left: 1092px;
+    left: 1115px;
     top: 458px;
 }
 
@@ -1752,12 +1742,12 @@ section.about {
 }
 
 #history1.history1 .h_link[data-index="04"] {
-    left: 1092px;
+    left: 1115px;
     top: 570px;
 }
 
 #history1.history1 .h_link[data-index="05"] {
-    left: 1051px;
+    left: 1077px;
     top: 763px;
 }
 
@@ -1767,12 +1757,12 @@ section.about {
 }
 
 #history1.history1 .h_link[data-index="07"] {
-    left: 1052px;
+    left: 1077px;
     top: 874px;
 }
 
 #history1.history1 .h_link[data-index="08"] {
-    left: 1052px;
+    left: 1077px;
     top: 969px;
 }
 
@@ -1782,7 +1772,7 @@ section.about {
 }
 
 #history1.history1 .h_link[data-index="10"] {
-    left: 816px;
+    left: 833px;
     top: 1085px;
 }
 
@@ -1802,17 +1792,17 @@ section.about {
 }
 
 #history1.history1 .h_link[data-index="14"] {
-    left: 725px;
+    left: 750px;
     top: 1285px;
 }
 
 #history1 .h_link[data-index="01"] {
-    left: 955px;
+    left: 975px;
     top: 215px;
 }
 
 #history1 .h_link[data-index="02"] {
-    left: 955px;
+    left: 975px;
     top: 338px;
 }
 
@@ -1827,8 +1817,8 @@ section.about {
 }
 
 #history1 .h_link[data-index="05"] {
-    left: 146px;
-    top: 473px;
+    left: 73px;
+    top: 465px;
 }
 
 #history1 .h_link[data-index="06"] {
@@ -1927,12 +1917,12 @@ section.about {
 }
 
 #history1 .h_link[data-index="25"] {
-    left: 1115px;
+    left: 1151px;
     top: 3215px;
 }
 
 #history1 .h_link[data-index="26"] {
-    left: 1092px;
+    left: 1110px;
     top: 3350px;
 }
 
@@ -1957,7 +1947,7 @@ section.about {
 }
 
 #history1 .h_link[data-index="31"] {
-    left: 700px;
+    left: 730px;
     top: 4172px;
 }
 
@@ -1967,22 +1957,50 @@ section.about {
 }
 
 #history1 .h_link[data-index="33"] {
-    left: 700px;
+    left: 730px;
     top: 4300px;
 }
 
 #history1 .h_link[data-index="34"] {
-    left: 700px;
+    left: 730px;
     top: 4410px;
 }
 
 #history1 .h_link[data-index="35"] {
-    left: 700px;
+    left: 730px;
     top: 4590px;
 }
 
 #history1 .img-fluid[class*="bg_"] {
     opacity: .3;
+}
+
+.smallpic {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: 3px solid #fff;
+    top: 11px;
+    left: -45px;
+    transition: all .1s ease;
+    box-shadow: 0 2px 8px rgb(0 0 0 / 30%);
+}
+
+.right .smallpic {
+    top: 11px;
+    left: auto;
+    right: -45px;
+}
+
+.h_link:hover .smallpic {
+    transform-origin: 100% 50%;
+    transform: scale(1.3);
+    box-shadow: 0 0 5px rgb(0 0 0 / 60%);
+}
+
+.h_link.right:hover .smallpic {
+    transform-origin: 0 50%;
 }
 
 
@@ -2369,6 +2387,16 @@ section.about {
     #history1 .h_link.whale.whale4.right:after {
         transform: translate(80%, -60%);
     }
+    .smallpic,
+    .right .smallpic {
+        width: 70px;
+        height: 70px;
+        left:  -80px;
+        right:auto;
+    }
+    .h_link.right:hover .smallpic {
+        transform-origin: 100% 50%;
+    }
 }
 
 @media (max-width: 1200px) {
@@ -2562,6 +2590,12 @@ section.about {
     #history1.history1:before {
         opacity: .15;
         background-size: 140%;
+    }
+    .smallpic, .right .smallpic {
+        width: 50px;
+        height: 50px;
+        right: -50px;
+        left: auto;
     }
 }
 

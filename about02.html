@@ -276,7 +276,7 @@
                             w_len = w_len + 1;
                             $('#hr_list').append(yeardiv + '<li'+ yearid +' class="h_link whale whale' + w_len +' '+ float +'" data-aos="fade-up" data-toggle="modal" data-target="#showModal" data-index="'+ tindex +'"><span class="time">'+ time +'</span><br>'+ dbData['subject']['zh'] +'<br><span class="eng">'+ subject_eng +'</span></li>');
                         }else{
-                            $('#hr_list').append(yeardiv + '<li'+ yearid +' class="h_link '+ float +'" data-aos="fade-up" data-toggle="modal" data-target="#showModal" data-index="'+ tindex +'"><span class="time">'+ time +'</span><br>'+ dbData['subject']['zh'] +'<br><span class="eng">'+ subject_eng +'</span></li>');
+                            $('#hr_list').append(yeardiv + '<li'+ yearid +' class="h_link '+ float +'" data-aos="fade-up" data-toggle="modal" data-target="#showModal" data-index="'+ tindex +'"><span class="time">'+ time +'</span><br>'+ dbData['subject']['zh'] +'<br><span class="eng">'+ subject_eng +'</span><img src="data/img/small/'+ dbData['photos'][0] +'" alt="" class="smallpic" data-aos="flip-left"></li>');
                         }
                     }else{
                         if(dbData['icon'] === 'whale'){

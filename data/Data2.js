@@ -69,6 +69,7 @@ var _Data = {
         "date": "1985",
         "twdate": "民國74年",
         "passed": false,
+        "float": "right",
         "subject": {
             "zh": "孫校長於畢業紀念冊題字勉勵畢業生",
             "en": "President Sun wrote an inscription in the graduation commemorative book to encourage the graduates."
