@@ -838,6 +838,16 @@ section {
     left: 21px;
 }
 
+.HRiver .points.p7 span {
+    top: 44px;
+    left: -19px;
+}
+
+.HRiver .points.p8 span {
+    top: 44px;
+    left: -19px;
+}
+
 .HRiver .points.p1 {
     top: 44.3%;
     left: 18.95%;
@@ -871,6 +881,11 @@ section {
 .HRiver .points.p7 {
     top: 1.4%;
     left: 87.5%;
+}
+
+.HRiver .points.p8 {
+    top: 1.2%;
+    left: 96.9%;
 }
 
 @media (max-width: 1400px) {
