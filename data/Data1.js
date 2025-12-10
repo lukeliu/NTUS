@@ -22,12 +22,12 @@ var _Data = {
         "passed": false,
         "float": "right",
         "subject": {
-            "zh": "臺大聘前校長閻振興先生為名譽教授",
+            "zh": "臺大聘前校長閻振興先生為名譽教授 ( 閻振興Chen-Hsing Yen )",
             "en": "National Taiwan University appointed former president Mr. Chen-Hsing Yen as an Honorary Professor."
         },
         "summary": {
-            "zh": "轉調擔任行政院原子能委員會主任委員之前校長閻振興先生，獲聘為本校名譽教授。",
-            "en": "text"
+            "zh": "轉調擔任行政院原子能委員會(Atomic Energy Council)主任委員(Chairperson)之前校長閻振興(Chen-Hsing Yen)先生，獲聘為本校名譽教授。",
+            "en": "Prior to assuming the position of Chairperson of the Atomic Energy Council (AEC), former President Chen-Hsing Yen was appointed Honorary Professor of National Taiwan University."
         },
         "photos": [
             "070006533R.webp"
@@ -110,7 +110,7 @@ var _Data = {
         },
         "summary": {
             "zh": "本校公告自71學年度起推行通才教育課程。",
-            "en": "text"
+            "en": "National Taiwan University announced that the implementation of the general education curriculum would commence in the 71st academic year (1982)."
         },
         "photos": [
             "071008515校教-1.webp", "071008515校教-2.webp", "071008515校教-3.webp"
@@ -126,7 +126,7 @@ var _Data = {
         },
         "summary": {
             "zh": "本校校徽之服務標章經經濟部中央標準局核准審定通過。",
-            "en": "text"
+            "en": "The service trademark registration of National Taiwan University's emblem was approved by the Central Bureau of Standards of the Ministry of Economic Affairs."
         },
         "photos": [
             "071008247R.webp"
@@ -143,7 +143,7 @@ var _Data = {
         },
         "summary": {
             "zh": "本校依校園規劃期中報告，函請教育部賜予核准購地預算。",
-            "en": "text"
+            "en": "In accordance with the interim campus planning report, National Taiwan University formally submitted a request to the Ministry of Education for approval of the land acquisition budget."
         },
         "photos": [
             "071011046校總-1.webp", "071011046校總-2.webp", "071011046校總-3.webp", "071011046校總-4.webp", "071011046校總-5.webp", "071011046校總-6.webp"
@@ -159,8 +159,8 @@ var _Data = {
             "en": "The National Bureau of Standards under the Ministry of Economic Affairs issued the service mark registration certificate to National Taiwan University."
         },
         "summary": {
-            "zh": "經濟部中央標準局發予本校校徽之服務標章註冊證。",
-            "en": "text"
+            "zh": "經濟部中央標準局(Bureau of Standards, Metrology and Inspection)發予本校校徽之服務標章註冊證。",
+            "en": "The Bureau of Standards, Metrology and Inspection (BSMI) of the Ministry of Economic Affairs issued the official service trademark registration certificate for National Taiwan University's emblem."
         },
         "photos": [
             "072005017R-P3.webp"
@@ -173,7 +173,7 @@ var _Data = {
         "link": "https://zh.wikipedia.org/zh-tw/%E9%8C%A2%E6%80%9D%E4%BA%AE",
         "float": "right",
         "subject": {
-            "zh": "臺大前校長錢思亮先生逝世，享年76歲。",
+            "zh": "臺大前校長錢思亮先生逝世，享年76歲。 ( 錢思亮 Shih-Liang Chien )",
             "en": "Former president of National Taiwan University, Mr. Shih-Liang Chien, passed away at the age of 76."
         },
     },
@@ -187,7 +187,7 @@ var _Data = {
         },
         "summary": {
             "zh": "本校自72學年度起施行通才教育選修課程。",
-            "en": "text"
+            "en": "National Taiwan University implemented elective courses under the general education program beginning in the 72nd academic year (1983)."
         },
         "photos": [
             "072010515校教-1.webp", "072010515校教-2.webp"
@@ -220,8 +220,8 @@ var _Data = {
             "en": "Prof. Chen Sun served as the 8th President of National Taiwan University."
         },
         "summary": {
-            "zh": "奉教育部函任孫震為國立臺灣大學校長。",
-            "en": "text"
+            "zh": "奉教育部函任孫震(Chen Sun)為國立臺灣大學校長。",
+            "en": "Chen Sun was officially appointed President of National Taiwan University by the Ministry of Education."
         },
         "photos": [
             "073006502R.webp"

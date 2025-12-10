@@ -9,8 +9,8 @@ var _Data = {
             "en": "Dr. Chen Sun succeeded as the 8th President of National Taiwan University."
         },
         "summary": {
-            "zh": "奉教育部函任孫震為國立臺灣大學校長。",
-            "en": "Appointment letter issued by the Ministry of Education naming Chen Sun as NTU President."
+            "zh": "本校孫震(Chen Sun)校長奉總統令，將擔任國防部長，新任校長未遴定前，校務由教務長郭光雄(Guang-Hsiung Kou)暫行代理。",
+            "en": "President Chen Sun of National Taiwan University was appointed Minister of National Defense by presidential decree. Prior to the appointment of a new president, Vice President for Academic Affairs Guang-Hsiung Kou was designated Acting President."
         },
         "photos": [
             "073006502R.webp"
@@ -273,7 +273,7 @@ var _Data = {
         },
         "summary": {
             "zh": "本校建設第一期校園網路工程，涵蓋電算中心、電機、土木、機械、行政大樓、文學院、總圖書館、及研圖等單位，並於78年5月正式啟用。",
-            "en": "text"
+            "en": "National Taiwan University completed the first phase of its campus network infrastructure project, covering the Computer Center, Departments of Electrical Engineering, Civil Engineering, Mechanical Engineering, the Administration Building, College of Liberal Arts, Main Library, and Research Building. The system was officially put into operation in May 1989."
         },
         "photos": [
             "077014536校電算-1.webp", "077014536校電算-2.webp"
@@ -317,8 +317,8 @@ var _Data = {
             "en": "The supercomputer at the Computer and Information Networking Center of National Taiwan University was officially put into operation."
         },
         "summary": {
-            "zh": "本校電子計算機中心之超級電腦CRAY XMP正式啟用，為全國各大學第一部超級電腦主機，開啟電腦運用史上新紀元。",
-            "en": "text"
+            "zh": "本校電子計算機中心(Computer and Information Networking Center)之超級電腦CRAY XMP正式啟用，為全國各大學第一部超級電腦主機，開啟電腦運用史上新紀元。",
+            "en": "The CRAY X-MP supercomputer at NTU's Computer and Information Networking Center was officially launched, marking the first supercomputer installation in a university in Taiwan and ushering in a new era of computing applications."
         },
         "photos": [
             "079000911校總-1.webp", "079000911校總-2.webp"
@@ -494,8 +494,8 @@ var _Data = {
             "en": "President Chen Sun of National Taiwan University was transferred to serve as Minister of National Defense."
         },
         "summary": {
-            "zh": "本校孫震校長奉總統令，將擔任國防部長，新任校長未遴定前，校務由教務長郭光雄暫行代理。",
-            "en": "text"
+            "zh": "本校孫震(Chen Sun)校長奉總統令，將擔任國防部長，新任校長未遴定前，校務由教務長郭光雄(Guang-Hsiung Kou)暫行代理。",
+            "en": "President Chen Sun of National Taiwan University was appointed Minister of National Defense by presidential decree. Prior to the appointment of a new president, Vice President for Academic Affairs Guang-Hsiung Kou was designated Acting President."
         },
         "photos": [
             "082002160R.webp"
