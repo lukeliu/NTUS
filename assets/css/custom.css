@@ -1480,7 +1480,7 @@ section.about {
 
 #history1.history1 {
     background: #fff url(../../images/bg_about3.jpg) 0 0 repeat-y;
-    min-height: 1832px;
+    min-height: 2313px;
 }
 
 #history1 h2 {
@@ -1508,17 +1508,17 @@ section.about {
 
 #history1 .year.Y1981 {
     left: 1088px;
-    top: 424px;
+    top: 205px;
 }
 
 #history1 .year.Y1982 {
-    left: 1062px;
-    top: 730px;
+    left: 1098px;
+    top: 713px;
 }
 
 #history1 .year.Y1983 {
     left: 847px;
-    top: 1021px;
+    top: 1350px;
 }
 
 #history1 .year.Y1984 {
@@ -1528,7 +1528,7 @@ section.about {
 
 #history1.history1 .year.Y1984 {
     left: 720px;
-    top: 1232px;
+    top: 1833px;
 }
 
 #history1 .year.Y1985 {
@@ -1583,7 +1583,7 @@ section.about {
 #history1 .deer {
     position: absolute;
     bottom: 0;
-    left: 18%;
+    left: 12%;
 }
 
 #history1 .text_box {
@@ -1760,73 +1760,73 @@ section.about {
 }
 
 #history1.history1 .h_link[data-index="01"] {
-    left: 1115px;
-    top: 458px;
+    left: 1146px;
+    top: 251px;
 }
 
 #history1.history1 .h_link[data-index="02"] {
-    left: 450px;
-    top: 458px;
+    left: 492px;
+    top: 251px;
 }
 
 #history1.history1 .h_link[data-index="03"] {
-    left: 420px;
-    top: 570px;
+    left: 488px;
+    top: 370px;
 }
 
 #history1.history1 .h_link[data-index="04"] {
-    left: 1115px;
-    top: 570px;
+    left: 1147px;
+    top: 370px;
 }
 
 #history1.history1 .h_link[data-index="05"] {
-    left: 1077px;
+    left: 1135px;
     top: 763px;
 }
 
 #history1.history1 .h_link[data-index="06"] {
-    left: 380px;
+    left: 467px;
     top: 763px;
 }
 
 #history1.history1 .h_link[data-index="07"] {
-    left: 1077px;
-    top: 874px;
+    left: 1135px;
+    top: 898px;
 }
 
 #history1.history1 .h_link[data-index="08"] {
-    left: 1077px;
-    top: 969px;
+    left: 1101px;
+    top: 1030px;
 }
 
 #history1.history1 .h_link[data-index="09"] {
-    left: 294px;
-    top: 880px;
+    left: 446px;
+    top: 898px;
 }
 
 #history1.history1 .h_link[data-index="10"] {
-    left: 833px;
-    top: 1085px;
+    left: 881px;
+    top: 1390px;
 }
 
 #history1.history1 .h_link[data-index="11"] {
-    left: 196px;
-    top: 1013px;
+    left: 202px;
+    top: 1390px;
 }
 
 #history1.history1 .h_link[data-index="12"] {
-    left: 916px;
-    top: 1177px;
+    left: 857px;
+    top: 1500px;
 }
 
 #history1.history1 .h_link[data-index="13"] {
-    left: 126px;
-    top: 1106px;
+    left: 191px;
+    top: 1500px;
 }
 
 #history1.history1 .h_link[data-index="14"] {
-    left: 750px;
-    top: 1285px;
+    left: 721px;
+    top: 1874px;
 }
 
 #history1 .h_link[data-index="01"] {
@@ -2334,7 +2334,7 @@ section.about {
     }
     #history1.history1 {
         background: none;
-        min-height: 1832px;
+        min-height: 2313px;
     }
     #history1 h2{
         left: calc(50% - 517px / 2);
