@@ -22,7 +22,7 @@ var _Data = {
         "passed": false,
         "float": "right",
         "subject": {
-            "zh": "臺大聘前校長閻振興先生為名譽教授 ( 閻振興Chen-Hsing Yen )",
+            "zh": "臺大聘前校長閻振興先生為名譽教授<br>(閻振興 Chen-Hsing Yen)",
             "en": "National Taiwan University appointed former president Mr. Chen-Hsing Yen as an Honorary Professor."
         },
         "summary": {
