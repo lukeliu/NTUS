@@ -173,7 +173,7 @@ var _Data = {
         "link": "https://zh.wikipedia.org/zh-tw/%E9%8C%A2%E6%80%9D%E4%BA%AE",
         "float": "right",
         "subject": {
-            "zh": "臺大前校長錢思亮先生逝世，享年76歲。 ( 錢思亮 Shih-Liang Chien )",
+            "zh": "臺大前校長錢思亮先生逝世，享年76歲。<br>(錢思亮 Shih-Liang Chien)",
             "en": "Former president of National Taiwan University, Mr. Shih-Liang Chien, passed away at the age of 76."
         },
     },
