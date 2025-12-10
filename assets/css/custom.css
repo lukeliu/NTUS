@@ -78,6 +78,21 @@ h6,
     max-width: 1920px;
 }
 
+.homelink {
+    position: absolute;
+    width: 600px;
+    height: 49%;
+    top: 32%;
+    left: 9%;
+}
+
+.home .homelink {
+    width: 850px;
+    height: 42%;
+    top: 24%;
+    left: 10%;
+}
+
 @media (min-width: 1920px) {
     .container,
     .container-lg,
@@ -85,6 +100,22 @@ h6,
     .container-sm,
     .container-xl {
         max-width: 1750px;
+    }
+}
+@media (max-width: 992px) {
+    .homelink {
+        width: 50%;
+    }
+    .home .homelink {
+        width: 78%;
+    }
+}
+@media (max-width: 768px) {
+    .homelink {
+        width: 80%;
+    }
+    .home .homelink {
+        width: 80%;
     }
 }
 
@@ -204,10 +235,12 @@ h6,
 #header h1.title a {
     color: #fff;
     transition: all .3s ease;
+    pointer-events: none;
 }
 
 #header h1.title:hover {
-    transform: scale(.98) translateY(-5px);
+    pointer-events: none;
+    /* transform: scale(.98) translateY(-5px); */
     text-shadow: 0 2px 5px rgb(0 0 0 / 75%);
 }
 
