@@ -232,7 +232,7 @@ var _Data = {
         "float": "right",
         "subject": {
             "zh": "臺大首次辦理「校園徵才」活動。",
-            "en": "NTU held its first University-wide career fair"
+            "en": "NTU held its first University-wide career fair."
         }
     },
     "18": {
@@ -269,7 +269,7 @@ var _Data = {
         "float": "right",
         "subject": {
             "zh": "臺大進行第一期校園網路工程。",
-            "en": "text"
+            "en": "National Taiwan University carried out the first phase of the campus networking project."
         },
         "summary": {
             "zh": "本校建設第一期校園網路工程，涵蓋電算中心、電機、土木、機械、行政大樓、文學院、總圖書館、及研圖等單位，並於78年5月正式啟用。",
@@ -314,7 +314,7 @@ var _Data = {
         "passed": false,
         "subject": {
             "zh": "臺大電子計算機中心之超級電腦正式啟用。",
-            "en": "text"
+            "en": "The supercomputer at the Computer and Information Networking Center of National Taiwan University was officially put into operation."
         },
         "summary": {
             "zh": "本校電子計算機中心之超級電腦CRAY XMP正式啟用，為全國各大學第一部超級電腦主機，開啟電腦運用史上新紀元。",
@@ -491,7 +491,7 @@ var _Data = {
         "passed": false,
         "subject": {
             "zh": "臺大孫震校長轉任國防部長。",
-            "en": "text"
+            "en": "President Chen Sun of National Taiwan University was transferred to serve as Minister of National Defense."
         },
         "summary": {
             "zh": "本校孫震校長奉總統令，將擔任國防部長，新任校長未遴定前，校務由教務長郭光雄暫行代理。",

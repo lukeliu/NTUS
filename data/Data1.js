@@ -23,7 +23,7 @@ var _Data = {
         "float": "right",
         "subject": {
             "zh": "臺大聘前校長閻振興先生為名譽教授",
-            "en": "text"
+            "en": "National Taiwan University appointed former president Mr. Chen-Hsing Yen as an Honorary Professor."
         },
         "summary": {
             "zh": "轉調擔任行政院原子能委員會主任委員之前校長閻振興先生，獲聘為本校名譽教授。",
@@ -106,7 +106,7 @@ var _Data = {
         "passed": false,
         "subject": {
             "zh": "臺大公告推行通才教育。",
-            "en": "text"
+            "en": "National Taiwan University announced the implementation of a general education program."
         },
         "summary": {
             "zh": "本校公告自71學年度起推行通才教育課程。",
@@ -122,7 +122,7 @@ var _Data = {
         "passed": false,
         "subject": {
             "zh": "臺大申請將校徽註冊服務標章經中央標準局核准審定通過。",
-            "en": "text"
+            "en": "National Taiwan University applied to register its school emblem as a service mark, which was approved and ratified by the National Bureau of Standards."
         },
         "summary": {
             "zh": "本校校徽之服務標章經經濟部中央標準局核准審定通過。",
@@ -139,7 +139,7 @@ var _Data = {
         "float": "right",
         "subject": {
             "zh": "臺大檢送校園規劃期中報告並請求購地預算。",
-            "en": "text"
+            "en": "National Taiwan University submitted the interim report on campus planning and requested a budget for land acquisition."
         },
         "summary": {
             "zh": "本校依校園規劃期中報告，函請教育部賜予核准購地預算。",
@@ -156,7 +156,7 @@ var _Data = {
         "passed": false,
         "subject": {
             "zh": "經濟部中央標準局發予臺大服務標章註冊證。",
-            "en": "text"
+            "en": "The National Bureau of Standards under the Ministry of Economic Affairs issued the service mark registration certificate to National Taiwan University."
         },
         "summary": {
             "zh": "經濟部中央標準局發予本校校徽之服務標章註冊證。",
@@ -174,7 +174,7 @@ var _Data = {
         "float": "right",
         "subject": {
             "zh": "臺大前校長錢思亮先生逝世，享年76歲。",
-            "en": "text"
+            "en": "Former president of National Taiwan University, Mr. Shih-Liang Chien, passed away at the age of 76."
         },
     },
     "12": {
@@ -183,7 +183,7 @@ var _Data = {
         "passed": false,
         "subject": {
             "zh": "臺大推行通才教育選修課程。",
-            "en": "text"
+            "en": "National Taiwan University promoted elective courses under its general education program."
         },
         "summary": {
             "zh": "本校自72學年度起施行通才教育選修課程。",
