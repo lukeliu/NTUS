@@ -296,11 +296,9 @@
                     var dindex = h_link.attr('data-index');
                     // console.log(dindex + ' === ' + toshow);
                     if (dindex === toshow) {
-                        var lpos = h_link.position();
-                        // console.log(lpos.top);
                         var mv = -200;
                         $('html, body').animate({
-                            scrollTop: lpos.top - mv
+                            scrollTop: h_link.offset().top + mv
                         }, 1500, 'easeInOutExpo');
                         function tclick(){
                             h_link.click();
@@ -310,7 +308,7 @@
                     }
                 });
             }
-            window.setTimeout(toSHOW, 2000);
+            window.setTimeout(toSHOW, 1000);
 
             var index = "";
             var urls = ['082002160R.webp','081010048校夜教-9.webp','081010048校夜教-8.webp','081010048校夜教-7.webp','081010048校夜教-6.webp','081010048校夜教-5.webp','081010048校夜教-4.webp','081005937R-2.webp','081005937R-1.webp','078019545校人-11.webp','078019545校人-7.webp','078019545校人-6.webp','078019545校人-5.webp','078019545校人-4.webp','077001042R.webp','076002472R.webp','075005158R.webp','074008484校人-2.webp','072005017R-P3.webp','071011046校總-2.webp','070009416校總.webp','070006416校秘-3.webp','070006416校秘-1.webp','79學年度畢冊.webp','77學年度畢冊.webp','76學年度畢冊.webp','74學年度畢冊.webp','73學年度畢冊.webp','72學年度畢冊.webp','71學年度畢冊.webp','70學年度畢冊.webp'];
@@ -492,7 +490,14 @@
                 var len = $('.h_link').length;
                 index = parseFloat(index) + 1;
                 if(index == 0) index = len;
-                if(index > len) index = 1;
+                //if(index > len) index = 1;
+                if(index > len){
+                    var pathname = window.location.pathname;
+                    var path1 = pathname.substring(0, pathname.lastIndexOf('/'));
+                    var url = location.origin + path1 + '/about02.html?toshow=02';
+                    console.log('url : '+ url);
+                    window.open(url, '_self').focus();
+                }
                 if(index < 10) index = "0" + index;
                 index = index.toString();
                 // console.log('index2 : '+index);
