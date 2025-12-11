@@ -9,8 +9,8 @@ var _Data = {
             "en": "Dr. Chen Sun succeeded as the 8th President of National Taiwan University."
         },
         "summary": {
-            "zh": "本校孫震(Chen Sun)校長奉總統令，將擔任國防部長，新任校長未遴定前，校務由教務長郭光雄(Guang-Hsiung Kou)暫行代理。",
-            "en": "President Chen Sun of National Taiwan University was appointed Minister of National Defense by presidential decree. Prior to the appointment of a new president, Vice President for Academic Affairs Guang-Hsiung Kou was designated Acting President."
+            "zh": "奉教育部函任孫震為國立臺灣大學校長。",
+            "en": "Chen Sun was officially appointed President of National Taiwan University by the Ministry of Education."
         },
         "photos": [
             "073006502R.webp"
@@ -21,11 +21,11 @@ var _Data = {
         "twdate": "民國73年",
         "passed": false,
         "subject": {
-            "zh": "孫校長於畢業紀念冊題字勉勵畢業生",
+            "zh": "孫校長於畢業紀念冊題字勉勵畢業生。",
             "en": "President Sun wrote an inscription in the graduation commemorative book to encourage the graduates."
         },
         "summary": {
-            "zh": "民國73學年度畢業紀錄冊。<br>資料來源-臺大圖書館特藏組。",
+            "zh": "<span class=\"info\">孫校長於畢業紀念冊題字勉勵畢業生。</span><span class=\"eng\">President Sun wrote an inscription in the graduation commemorative book to encourage the graduates.</span><br>民國73學年度畢業紀錄冊。<br>資料來源-臺大圖書館特藏組。",
             "en": "The graduation commemorative book for the 1985 academic year.<br>Source: Special Collections Division of National Taiwan University Library."
         },
         "photos": [
@@ -75,7 +75,7 @@ var _Data = {
             "en": "President Sun wrote an inscription in the graduation commemorative book to encourage the graduates."
         },
         "summary": {
-            "zh": "民國74學年度畢業紀錄冊。<br>資料來源-臺大圖書館特藏組。",
+            "zh": "<span class=\"info\">孫校長於畢業紀念冊題字勉勵畢業生。</span><span class=\"eng\">President Sun wrote an inscription in the graduation commemorative book to encourage the graduates.</span><br>民國74學年度畢業紀錄冊。<br>資料來源-臺大圖書館特藏組。",
             "en": "The graduation commemorative book for the 1985 academic year.<br>Source: Special Collections Division of National Taiwan University Library."
         },
         "photos": [
@@ -191,7 +191,7 @@ var _Data = {
             "en": "President Sun wrote an inscription in the graduation commemorative book to encourage the graduates."
         },
         "summary": {
-            "zh": "民國76學年度畢業紀錄冊。<br>資料來源-臺大圖書館特藏組。",
+            "zh": "<span class=\"info\">孫校長於畢業紀念冊題字勉勵畢業生。</span><span class=\"eng\">President Sun wrote an inscription in the graduation commemorative book to encourage the graduates.</span><br>民國76學年度畢業紀錄冊。<br>資料來源-臺大圖書館特藏組。",
             "en": "The graduation commemorative book for the 1987 academic year.<br>Source: Special Collections Division of National Taiwan University Library."
         },
         "photos": [
@@ -255,7 +255,7 @@ var _Data = {
             "en": "President Sun wrote an inscription in the graduation commemorative book to encourage the graduates."
         },
         "summary": {
-            "zh": "民國77學年度畢業紀錄冊。<br>資料來源-臺大圖書館特藏組。",
+            "zh": "<span class=\"info\">孫校長於畢業紀念冊題字勉勵畢業生。</span><span class=\"eng\">President Sun wrote an inscription in the graduation commemorative book to encourage the graduates.</span><br>民國77學年度畢業紀錄冊。<br>資料來源-臺大圖書館特藏組。",
             "en": "The graduation commemorative book for the 1988 academic year.<br>Source: Special Collections Division of National Taiwan University Library."
         },
         "photos": [
@@ -317,7 +317,7 @@ var _Data = {
             "en": "The supercomputer at the Computer and Information Networking Center of National Taiwan University was officially put into operation."
         },
         "summary": {
-            "zh": "本校電子計算機中心(Computer and Information Networking Center)之超級電腦CRAY XMP正式啟用，為全國各大學第一部超級電腦主機，開啟電腦運用史上新紀元。",
+            "zh": "本校電子計算機中心之超級電腦CRAY XMP正式啟用，為全國各大學第一部超級電腦主機，開啟電腦運用史上新紀元。",
             "en": "The CRAY X-MP supercomputer at NTU's Computer and Information Networking Center was officially launched, marking the first supercomputer installation in a university in Taiwan and ushering in a new era of computing applications."
         },
         "photos": [
@@ -361,7 +361,7 @@ var _Data = {
             "en": "President Sun wrote an inscription in the graduation commemorative book to encourage the graduates."
         },
         "summary": {
-            "zh": "民國79學年度畢業紀錄冊。<br>資料來源-臺大圖書館特藏組。",
+            "zh": "<span class=\"info\">孫校長於畢業紀念冊題字勉勵畢業生。</span><span class=\"eng\">President Sun wrote an inscription in the graduation commemorative book to encourage the graduates.</span><br>民國79學年度畢業紀錄冊。<br>資料來源-臺大圖書館特藏組。",
             "en": "The graduation commemorative book for the 1990 academic year.<br>Source: Special Collections Division of National Taiwan University Library."
         },
         "photos": [
@@ -494,7 +494,7 @@ var _Data = {
             "en": "President Chen Sun of National Taiwan University was transferred to serve as Minister of National Defense."
         },
         "summary": {
-            "zh": "本校孫震(Chen Sun)校長奉總統令，將擔任國防部長，新任校長未遴定前，校務由教務長郭光雄(Guang-Hsiung Kou)暫行代理。",
+            "zh": "本校孫震校長奉總統令，將擔任國防部長，新任校長未遴定前，校務由教務長郭光雄暫行代理。",
             "en": "President Chen Sun of National Taiwan University was appointed Minister of National Defense by presidential decree. Prior to the appointment of a new president, Vice President for Academic Affairs Guang-Hsiung Kou was designated Acting President."
         },
         "photos": [

@@ -2196,7 +2196,7 @@ section.about {
 .infomation p .time {
     font-size: 45px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    margin-bottom: 80px;
+    margin-bottom: 40px;
     display: block;
 }
 
@@ -2211,7 +2211,19 @@ section.about {
     font-weight: normal;
     font-size: 18px;
     line-height: 1.5em;
-    margin-bottom: 5px;
+    margin-bottom: 10px;
+}
+
+.infomation p.cht .info {
+    font-size: 20px;
+    display: block;
+    margin-bottom: 10px;
+}
+
+.infomation p.cht .eng {
+    font-size: 16px;
+    display: block;
+    margin-bottom: 10px;
 }
 
 .infomation p.eng2 {
